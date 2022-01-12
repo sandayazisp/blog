@@ -22,7 +22,7 @@
     "dotenv": "^8.2.0",
     "fork-me-on-github-vue": "^1.0.7",
     "github-markdown-css": "^3.0.1",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "markdown-it-emoji": "^1.4.0",
     "remove-markdown": "^0.3.0",
     "vue": "^2.6.11",
